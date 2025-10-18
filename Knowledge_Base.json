@@ -1,0 +1,12 @@
+[
+{"q": "what is ai", "a": "AI stands for Artificial Intelligence — the simulation of human intelligence in computers."},
+{"q": "what is nlp", "a": "Natural Language Processing (NLP) enables computers to understand and process human language."},
+{"q": "what is machine learning", "a": "Machine learning is a branch of AI where systems learn from data to make predictions or decisions."},
+{"q": "what is deep learning", "a": "Deep learning is a type of machine learning that uses neural networks to model complex patterns in data."},
+{"q": "what is python", "a": "Python is a popular, easy-to-learn programming language widely used for AI, web, and data science."},
+{"q": "what is chatbot", "a": "A chatbot is an AI program that simulates human conversation through text or voice interactions."},
+{"q": "how to get internship certificate", "a": "Certificates are issued by CodTech on your internship end date."},
+{"q": "who created you", "a": "I was created as part of the CodTech AI Internship project using Python, NLTK, and spaCy."},
+{"q": "how are you", "a": "I'm doing great, thank you for asking! How can I assist you today?"},
+{"q": "what is spacy", "a": "spaCy is an industrial-strength NLP library for Python designed for production use."}
+]
